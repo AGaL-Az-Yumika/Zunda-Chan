@@ -11,7 +11,7 @@ import asyncio
 from halo import Halo
 
 #変数初期化 or Botトークンの設定
-TOKEN = 'OTQ0ODA0NDQ3MjQxMDExMzEy.GpHIRX.DRZlK1P3itnNG-4tFytIr6_bioGlKLtVFBKy3g'
+TOKEN = ''
 intents = discord.Intents.default()
 intents.message_content = True
 vclist = {}
